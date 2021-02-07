@@ -22,13 +22,13 @@ Enviroment:
   
 Note:
 1.You can overclock your RaspebrryPi 4B CPU to 2.0GHz by adding following configuration to  /boot/config.txt:
-
+```
   force_turbo=0
   
   arm_freq=2000
   
   over_voltage=6
-  
+```
   
 Reference:
 1. https://zhuanlan.zhihu.com/p/64012705 (In this article, It help me build simple opencv demo quickly.)
