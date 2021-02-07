@@ -4,6 +4,8 @@ This project aims to make RaspberryPi 4B works with Intel Nerual Compute Stick M
 
 Device:
 
+![image](https://github.com/superyxm/RaspebrryPi4B_Movidius/blob/main/mydevice.HEIC)
+
 RaspberryPi 4B 4GB(I used 4GB version, I think 2GB version is also OK. 8GB version is better.)
 Intel Nerual Compute Stick Movidius (I used Nerual Compute Stick 1, not the second generation just because it is much cheaper)
 
