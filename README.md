@@ -1,4 +1,4 @@
-# -RaspebrryPi4B_Movidius
+# RaspebrryPi4B_Movidius
 
 This project aims to make RaspberryPi 4B works with Intel Nerual Compute Stick Movidius.
 
@@ -7,6 +7,7 @@ RaspberryPi 4B 4GB(I used 4GB version, I think 2GB version is also OK. 8GB versi
 Intel Nerual Compute Stick Movidius (I used Nerual Compute Stick 1, not the second generation just because it is much cheaper)
 
 Enviroment:
+
 1.Intel said Nerual Compute Stick 1 (Intel NCS1) will not be supported. I have tried some Openvino version, and I find I can success on version 2020.1.023 while I faild in newer version. Download openvinotoolkit from
   https://download.01.org/opencv/2020/openvinotoolkit/2020.1/l_openvino_toolkit_runtime_raspbian_p_2020.1.023.tgz
 
