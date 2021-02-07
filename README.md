@@ -36,3 +36,4 @@ Reference:
 3. https://docs.openvinotoolkit.org/cn/latest/openvino_docs_install_guides_installing_openvino_raspbian.html
 4. https://segmentfault.com/a/1190000037440525
 5. https://zhuanlan.zhihu.com/p/76437760
+6. https://software.intel.com/content/www/us/en/develop/articles/add-a-time-date-stamp-to-your-output-files-for-opencv-frames-in-python.html
